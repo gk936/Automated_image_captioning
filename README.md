@@ -12,3 +12,6 @@ Approach :
 7) **Data Preparation using Generator Function** : This methods is used to reduce space taken by our model on main memory. 
 8) **Word Embeddings** : Used Glove Vectors(glove 6B50d.txt) to create embedding_matrix. Embeddings were requirements for any RNN based architecture.
 9) **Model Architecture** : 
+![1_rfYN2EELhLvp2Van3Jo-Yw](https://user-images.githubusercontent.com/84574907/130343351-7ec1da2f-1c20-414b-a836-bf4657162df3.jpeg)
+10) **Training** : Trained model for 20 epochs and batchsize = 3
+11) **Prediction on random images**
